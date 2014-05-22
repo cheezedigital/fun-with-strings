@@ -1,4 +1,6 @@
 puts "what's your name?"
-name = gets.chomp
-puts  "ooohh damn, son! #{name}"
-   
+firstname = gets.chomp
+puts  "ooohh damn, son! #{firstname}"
+
+puts "what's your last name"
+lastname = gets.upcase
